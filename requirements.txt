@@ -1,0 +1,4 @@
+openai-whisper
+python-telegram-bot==20.7
+torch
+ffmpeg-python
